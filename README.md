@@ -32,7 +32,7 @@ A comprehensive Wine application manager for Linux with both CLI and GUI interfa
 
 ```bash
 # Clone or extract the source
-cd wine-application-manager
+cd Wine-Application-Manager
 
 # Make build script executable
 chmod +x build.sh
